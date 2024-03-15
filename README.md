@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/roshansawlani" target="blank"><img src="https://img.shields.io/twitter/follow/roshansawlani?logo=twitter&style=for-the-badge" alt="roshansawlani" /></a> </p>
 
-- 🔭 I’m currently working on **Food Ordering Website**
+- 🔭 I’m currently working on **Blog App**
 
-- 🌱 I’m currently learning **Next JS, Django, Flask**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-xi-gold.vercel.app](https://my-portfolio-xi-gold.vercel.app)
 
