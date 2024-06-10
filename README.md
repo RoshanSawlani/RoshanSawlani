@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/roshansawlani" target="blank"><img src="https://img.shields.io/twitter/follow/roshansawlani?logo=twitter&style=for-the-badge" alt="roshansawlani" /></a> </p>
 
-- 🔭 I’m currently working on **Blog App**
+- 🔭 I’m currently working on **POS Application**
 
 - 🌱 I’m currently learning **Next JS**
 
