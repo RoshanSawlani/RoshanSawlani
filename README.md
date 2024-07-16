@@ -3,8 +3,6 @@
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" alt="Coding" width="400"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshansawlani&label=Profile%20views&color=0e75b6&style=flat" alt="roshansawlani" /> </p>
-
 <p align="left"> <a href="https://twitter.com/roshansawlani" target="blank"><img src="https://img.shields.io/twitter/follow/roshansawlani?logo=twitter&style=for-the-badge" alt="roshansawlani" /></a> </p>
 
 - 🔭 I’m currently working on **Ecommerce Website**
