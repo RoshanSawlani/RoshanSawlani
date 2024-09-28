@@ -1,4 +1,4 @@
-[![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,w_2000,h_600,f_auto,q_auto,f_auto/gigs/280939690/original/5b68e7a636a695efce39d4c13d333693721871c4/be-your-mern-stack-developer.jpg)](https://roshansawlani.io)
+[![MasterHead](https://itechnasik.com/wp-content/uploads/2023/11/Mern-Stack-Developer.png)](https://roshansawlani.io)
 <h1 align="center">Hi 👋, I'm Roshan Sawlani</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" alt="Coding" width="400"/>
